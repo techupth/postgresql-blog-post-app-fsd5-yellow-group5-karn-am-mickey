@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "type": "module",
   "scripts": {
@@ -16,6 +15,8 @@
     "cors": "^2.8.5",
     "express": "^4.17.3",
     "nodemon": "^2.0.15",
-    "pg": "^8.7.3"
-  }
+    "pg": "^8.11.3"
+  },
+  "devDependencies": {},
+  "description": ""
 }
